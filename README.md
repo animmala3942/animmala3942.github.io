@@ -1,4 +1,4 @@
-#Describing the Data Set
+# Describing the Data Set
 
 There are many sites providing  free datasets. Out of all those the dataset which I was very interested is Breast Cancer Detection dataset which is from [Kaggle](kaggle.com). 
 
@@ -6,7 +6,7 @@ Kaggle is one of the popular data science website that provides free public data
 
 The dataset which I have choosen is [Breast Cancer Prediction Dataset](https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset).I have chosen this data set because across the world Breast Cancer is the most common type of cancer in women.With the above data, we can identify the people prone to breast cancer based on their body composition.Using this model, we can detect the breast cancer at early stages and hence the treatment will be easier and also we can spread the awareness. Breast Cancer is mainly detected based upon tumour features such as radius, area, smoothness,texture, perimeter.Specifically, we use these features to differentiate between benign and malignant tumors.Knowing the difference between benign tumors and malignant tumors is very important in the field of medical science and cancer research.In addition, knowing this information may help doctors figure out the best way to manage and treat cancer. 
 
-#Describing a Book
+# Describing a Book
 
 Title: [A Course in Machine Learning](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf)
 
