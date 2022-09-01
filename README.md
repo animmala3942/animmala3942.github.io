@@ -1,4 +1,5 @@
 #Describing the Data Set
+
 There are many sites providing  free datasets. Out of all those the dataset which I was very interested is Breast Cancer Detection dataset which is from [Kaggle](kaggle.com). 
 
 Kaggle is one of the popular data science website that provides free public datasets which can be used in the projects in Machine Learning and Artificial Intelligence domain.We can even share our own datasets.
@@ -8,6 +9,7 @@ The dataset which I have choosen is [Breast Cancer Prediction Dataset](https://w
 #Describing a Book
 
 Title: [A Course in Machine Learning](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf)
+
 Author:Hal Daumé III
 
 The book which I was most interested is A Course in Machine Learning written by Hal Daumé III.This book covers all the introductory areas of Machine Learning. Machine Learning is an important component of growing data science field.It focuses on making decisions without human interfernce based on past data and patterns.Machine Learning being an integral part of data science, has been something that I always want to master.This book definitely helps me get there.There are many aspects such as supervised learning, unsupervised learning, decision trees,neural networks etc in this book that aid a beginner's journery to explore Machine Learning.
